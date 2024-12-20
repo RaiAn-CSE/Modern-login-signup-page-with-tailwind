@@ -1,2 +1,2 @@
-Vite + React: Modern_Login_SignUp_Page: </br>
-Live Link: 
+Vite + React + Tailwind-Modern-login-signUp-Page </br>
+Live Link: https://tailwind-login-signup.vercel.app/
